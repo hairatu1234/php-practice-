@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    text-align: center;
+}
+.main{
+    margin: 25%;
+    background-color: lightgray;
+    height:500px;
+    width: auto;
+    display: flex;
+}
+body{
+    background-color: darkgrey;
+}
+form{
+    justify-content: space-between;
+    height: auto;
+    width: 350px;
+}
+input{
+    margin: 15px;
+}
